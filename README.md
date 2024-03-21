@@ -22,7 +22,7 @@ Vue 3 + Pinia - JWT Authentication Tutorial & Example
 
 # Development server:
 
-- npm dev
+- npm run dev
 
 - You can view the development server at `localhost:3000`
 
