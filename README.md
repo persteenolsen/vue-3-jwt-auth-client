@@ -2,6 +2,10 @@
 
 Vue 3 + Pinia - JWT Authentication Tutorial & Example
 
+# Last updated
+
+- 23-04-2024
+
 # Tech used for this Web Client
 
 - Node.js version 18.19.1
