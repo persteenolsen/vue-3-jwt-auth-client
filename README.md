@@ -4,7 +4,7 @@ Vue 3 + Pinia - JWT Authentication Tutorial & Example
 
 # Last updated
 
-- 23-04-2024
+- 19-08-2024
 
 # Tech used for this Web Client
 
